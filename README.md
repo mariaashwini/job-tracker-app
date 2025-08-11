@@ -3,7 +3,7 @@
 A **React** and **Tailwind CSS** based web application to track job applications, manage interview progress, and stay organized during the job search process.
 
 🚀 **Live Demo:** [https://career-track.netlify.app/](https://career-track.netlify.app/)  
-📂 **GitHub Repo:** [https://github.com/yourusername/job-tracker](https://github.com/yourusername/job-tracker)
+📂 **GitHub Repo:** [https://github.com/mariaashwini/job-tracker-app](https://github.com/mariaashwini/job-tracker-app)
 
 ---
 
@@ -34,10 +34,10 @@ Follow these steps to run the project locally:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/job-tracker.git
+git clone https://github.com/mariaashwini/job-tracker-app.git
 
 # 2. Navigate into the project folder
-cd job-tracker
+cd job-tracker-app
 
 # 3. Install dependencies
 npm install
